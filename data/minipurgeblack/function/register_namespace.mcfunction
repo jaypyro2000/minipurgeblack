@@ -1,0 +1,1 @@
+function mphelper:register/register_namespace {namespace:minipurgeblack,execute_last:0}
