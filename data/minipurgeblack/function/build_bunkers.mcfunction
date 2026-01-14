@@ -1,1 +1,1 @@
-$execute run function mphelper:place_random/underground_assets_from_list {list: "minipurgeblack:variables bunkers", count: $(bunker_count), upper_padding: 24, lower_padding: 25}
+$execute run function mphelper:place/random/underground/templates_from_list {list: "minipurgeblack:variables bunkers", count: $(bunker_count), min_bgs: 24, max_bgs: 25}
